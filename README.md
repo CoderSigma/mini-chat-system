@@ -2,6 +2,7 @@
 run the server file on both device to connect localy
 
 # Installation
+open termux and paste this
 ```
 git clone https://github.com/CoderSigma/mini-chat-system
 ```
