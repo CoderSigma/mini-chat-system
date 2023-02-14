@@ -2,7 +2,9 @@
 run the server file on both device to connect localy
 
 # Installation
-
+```
+git clone https://github.com/CoderSigma/mini-chat-system
+```
 ```
 pip install socket
 pip install thread
