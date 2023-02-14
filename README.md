@@ -7,7 +7,7 @@ run the server file on both device to connect localy
 pip install socket
 pip install thread
 ```
-and run this
+or run this
 
 ```
 pip install -r requirements.txt
