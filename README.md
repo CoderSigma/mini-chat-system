@@ -7,8 +7,7 @@ open termux and paste this
 git clone https://github.com/CoderSigma/mini-chat-system
 ```
 ```
-pip install socket
-pip install thread
+pip install colorama
 ```
 or run this
 
